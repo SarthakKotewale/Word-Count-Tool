@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+
+body{
+    text-align: center;
+    background-image: url('https://www.designbolts.com/wp-content/uploads/2014/03/Bright-Blue1.jpg');
+    background-size: cover;
+    background-position: center center;
+}
+
+h1{
+    margin-top: 1rem;
+    font-size: 4rem;
+    font-family: 'Pacifico', cursive;
+}
+
+#input{
+    width: 15rem;
+    height: 2rem;
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    margin: 80px auto 80px;
+}
+
+#button{
+    height: 2.5rem;
+    width: 8rem;
+    font-weight: bolder;
+    font-size: large;
+    border-radius: 45px;
+
+    background-color: black;
+    color: white;
+}
+
+#output{
+    
+    margin: 100px auto 100px;
+    margin-top: 1rem;
+    background-color: black;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    color: white;
+    text-align:center;
+    height: 2rem;
+    width: 10rem;
+}
+
+#button:hover{
+    color:lightsalmon;
+    font-size: 1.2rem;
+}
